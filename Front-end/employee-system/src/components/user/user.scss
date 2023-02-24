@@ -1,0 +1,13 @@
+.userBorder {
+    border: 2px black solid;
+    margin: 30px;
+    padding: 10px;
+}
+
+.deleteTag {
+    color: blue;
+    text-decoration: underline;
+    &:hover {
+        cursor: pointer;
+    }
+}

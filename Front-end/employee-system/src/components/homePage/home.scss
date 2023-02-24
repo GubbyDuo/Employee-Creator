@@ -1,0 +1,17 @@
+.homePage {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+}
+
+.userBlock {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+}
+
+.userList {
+    width: 20%;
+}
